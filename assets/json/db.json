@@ -1,7 +1,7 @@
 {
     "employee": [
       {
-        "name": "Lucky",
+        "name": "lucky",
         "gender": "male",
         "departMent": [
           "HR"
@@ -13,7 +13,7 @@
         "profileUrl": "../assets/profile-images/Ellipse 1.png"
       },
       {
-        "name": "Lucky test",
+        "name": "lucky",
         "gender": "male",
         "departMent": [
           "HR"
@@ -25,7 +25,7 @@
         "profileUrl": "../assets/profile-images/Ellipse 1.png"
       },
       {
-        "name": "mohit",
+        "name": "lucky",
         "gender": "male",
         "departMent": [
           "HR"
